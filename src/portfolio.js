@@ -10,7 +10,7 @@ const about = {
   role: '#live #laugh #love',
   quote: '"live the life you love and love the life you lived"',
   description:
-    'Ola, My name is Hieu but you can me "Híu", it \'d make our conversation easier to go on. A sneak peek about myself, I was born and raised in HCMC. So yes ! I am a real Saigonese even though my voice is northern ascent. I studied abroad when I was 15 years old, had my Junior and Senior year at a private high school, located in Mission Hills, LA. I then moved to Dallas-Fort Worth Metropolitan area where I spent 1.5 years in a community college, before receiving a full scholarship at Texas Christian University. My undergrad program at TCU was mainly focus on Computer Science and Mathematics. I graduated on May 2020, with a Bachelor of Arts in Mathematics, Minor in Computer Science. Being a global citizen, you may recall that there was a huge surge of Covid-19 over the world at that time and it did not took America so long to climb to the top of most infected countries. I was reluctantly to farewell and leave my 7 years in the States behind. Such a marvelous journey I\'d had. It was one of the most beautiful time and memories that I\'d ever had in my life, and I still miss it even now. As life goes on, I shifted my career back to home, started with a Business Application Developer at Vietnam Australian Int\'l School.   ',
+    'Ola, My name is Hieu but you can me "Híu", it \'d make our conversation easier to go on. A sneak peek about myself, I was born and raised in HCMC. So yes ! I am a real Saigonese even though my voice is northern ascent. I studied abroad when I was 15 years old, had my Junior and Senior year at a private high school, located in Mission Hills, LA. I then moved to Dallas-Fort Worth Metropolitan area where I spent 1.5 years in a community college, before receiving a full scholarship at Texas Christian University. My undergrad program at TCU was mainly focus on Computer Science and Mathematics. I graduated on May 2020, with a Bachelor of Arts in Mathematics, Minor in Computer Science. Being a global citizen, you may recall that there was a huge surge of Covid-19 over the world at that time and it did not take America so long to climb to the top of most infected countries. I was reluctantly to farewell and leave my 7 years in the States behind. Such a marvelous journey I\'d had. It was one of the most beautiful time and memories that I\'d ever had in my life, and I still miss it even now. As life goes on, I shifted my career back to home, started with a Business Application Developer at Vietnam Australian Int\'l School.   ',
   info : 'I am a family, introvert, analytical and methodical, and obviously a left-brained person. My religion is Roman Catholic and I often practice. My top three priorities are religion, my love and family. I have love for children and patience to endure hardships. When I was four, I learnt to play piano and I\'ve been playing for roughly over 20 years. That\'s what I\'d do when I get stressed. Sports, in particularly, soccer and volleyball are my most two favorites. I also do running and swimming, hiking, snowboarding. It was blessed that I have a certain friendships and a number of friends. Hanging out and playing computer games in order to catch up and keep memories with them. That pretty much sums up my one fourth of the century life.',
   resume: 'https://github.com/hieunguyen0802/my-web/raw/main/public/HieuNguyen_CV.pdf',
   social: {
@@ -24,7 +24,7 @@ const projects = [
   // if there are no projects, Projects section won't show up
   {
     name: 'Business Application Developer',
-    description: 'My responsibilities are develop web app and support users. I write web application apps for internal use between departments within the company. The apps are designated to serve a wide range of users, from 2K - up to 10K. Sometimes I play multiple roles, being a Business Analyst, or even Project Manager for mid-size scope projects.',
+    description: 'My responsibilities are to develop web app and support users. I write web application apps for internal use between departments within the company. The apps are designated to serve a wide range of users, from 2K - up to 10K. Sometimes I play multiple roles, being a Business Analyst, or even Project Manager for mid-size scope projects.',
     stack: ['Vietnam Australian Int\'l School','Nov 2020 - Present'],
     sourceCode: 'https://github.com',
     livePreview: 'https://employee.vas.edu.vn/',
@@ -38,7 +38,7 @@ const projects = [
     livePreview: 'https://www.neeley.tcu.edu/labs/',
   },
   {
-    name: 'Teacher Assistant',
+    name: 'Teaching Assistant',
     description:
       'During my sophomore year in the college, I had a job where I was in assistance with professors to tutor and grade students\' works. I\'d sharpened my teaching methods and math skills through this opportunity. I spend almost my time in strengthening student\' knowledge, then prepare lectures, lesson material to improve their Math skills.  ',
     stack: ['Department of Mathematics', 'August 2017 - August 2019'],
@@ -83,7 +83,7 @@ const softSkill = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'hieunguyen0802@gmail.com',
+  email: 'hieu.h.t.nguyen@tcu.edu',
 }
 
 export { header, about, projects, skills, softSkill, contact }
